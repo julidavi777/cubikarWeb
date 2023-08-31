@@ -1,0 +1,13 @@
+.fondo {
+    background-image: url('../../../public/assets/icon/Construcción.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+body{
+    background: #000;
+}
+  
